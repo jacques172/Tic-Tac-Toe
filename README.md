@@ -3,4 +3,7 @@
 AI that plays Tic-Tac-Toe optimally and never loses ising Minimax algorithm and pygame 
 
 ## Running 
-python runner.py
+
+`pip install -r requirements.txt`
+
+`python runner.py`
